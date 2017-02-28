@@ -1,10 +1,10 @@
-# Character Turn-around
+# Character Turnaround
 
 ## Brief:
 
 The character prompt for this project is _**Retro Hero**_. Reimagine a famous person from history that you admire who is no longer alive, but as a superhero.
 
-Create a three or four view character turn-around using 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application.
+Create a three or four view character turnaround using 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application.
 
 What is a turnaround? [CGCookie Youtube Demo](https://www.youtube.com/watch?v=zg_i3NAA2CQ)
 
@@ -28,8 +28,9 @@ What is a turnaround? [CGCookie Youtube Demo](https://www.youtube.com/watch?v=zg
 
 1. Perform visual research on character based on the brief requirements \(30 minutes recommended\)
 2. Paint Front, Side, and Back views of the character emphasizing pro
-   1. A additional 3/4 view of the character is encouraged, but optional
-   2. Color is not required.
+   1. Use guidelines to align anatomical features
+   2. A additional 3/4 view of the character is encouraged, but optional
+   3. Color is not required.
 3. Write character design document
 4. Upload to Canvas
 

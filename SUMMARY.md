@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Assignments](topics.md)
-  * [Character Turn-around](topics/digital-painting.md)
+  * [Character Turnaround](topics/digital-painting.md)
 

@@ -2,7 +2,9 @@
 
 ## Brief:
 
-For this project, you are tasked with designing a character using 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application. 
+For this project, you are tasked with designing a character 
+
+To complete the project, you must use 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application.
 
 ## **Deliverables:**
 

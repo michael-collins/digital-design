@@ -1,3 +1,6 @@
-# My Awesome Book
+# Digital Design
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book contains topics and assignments used for teaching digital design.
+
+
+

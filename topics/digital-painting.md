@@ -2,9 +2,11 @@
 
 ## Brief:
 
-For this project, you are tasked with designing a character 
+The character prompt for this project is _**Retro Hero**_. Reimagine a famous person from history that you admire who is no longer alive, but as a superhero.
 
-To complete the project, you must use 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application.
+Create a three or four view character turn-around using 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application.
+
+What is a turnaround? [Google Search Results](https://www.google.com/search?biw=1431&bih=774&tbm=isch&sa=1&q=concept+art+character+turnaround&oq=concept+art+character+turnaround&gs_l=img.3..0.22515.24216.0.24360.12.12.0.0.0.0.136.1071.8j4.12.0....0...1c.1.64.img..2.2.217...0i7i30k1.vGAkV4neXYg)
 
 ## **Deliverables:**
 

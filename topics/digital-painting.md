@@ -2,7 +2,7 @@
 
 ## Brief:
 
-The character prompt for this project is _**Retro Hero**_. Reimagine a famous person from history that you admire who is no longer alive, but as a superhero.
+The character prompt for this project is _**Blue Collar Hero**_. Reimagine a person who works a blue collar job as a superhero. You may also render the character as a supervillain if you prefer. All of the details surrounding the person should come from reference images you find during your research.
 
 Create a three or four view character turnaround using 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application.
 

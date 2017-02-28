@@ -2,7 +2,7 @@
 
 ## Brief:
 
-The character prompt for this project is _**Blue Collar Hero**_. Reimagine a person who works a blue collar job as a superhero. You may also render the character as a supervillain if you prefer. All of the details surrounding the person should come from reference images you find during your research.
+The character prompt for this project is _**Blue Collar Hero**_. Reimagine a person who works a blue collar job as a superhero. Alternatively, you may design the character as a supervillain. All of the details surrounding the character should come from reference images you find during your research.
 
 Create a three or four view character turnaround using 2D digital painting tools. Though Photoshop is used for demos, you may use Gimp, Corel Painter, or any other sufficiently advanced digital painting application.
 
@@ -12,7 +12,7 @@ What is a turnaround? [CGCookie Youtube Demo](https://www.youtube.com/watch?v=zg
 
 **ZIP File:** `STUDENTID-digital-painting.zip`
 
-**Upload Location: **
+**Upload Location: **Canvas
 
 **Contains:**
 

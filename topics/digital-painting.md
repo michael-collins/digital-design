@@ -10,8 +10,8 @@ For this project, you are tasked with designing a character
 
 **Contains:**
 
-1. **STUDENTID.png:** 2000px high by 5000px wide
-2. **STUDENTID.doc:** Character Design Document \(150 words min\)
+1. _**STUDENTID**_**.png:** 2000px high by 5000px wide
+2. _**STUDENTID**_**.doc:** Character Design Document \(150 words min\)
    * What are the goals for the character design?
    * How do the design decisions you made in the painting reinforce the design goals?
 3. **Visual Research Folder:** Reference images \(Please don't include more than 20 images\)

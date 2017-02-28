@@ -26,7 +26,7 @@ What is a turnaround? [CGCookie Youtube Demo](https://www.youtube.com/watch?v=zg
 
 ## Directions:
 
-1. Perform visual research on character based on the brief requirements \(30 minutes recommended\)
+1. Perform visual research \(reference image search\) on character based on the brief requirements \(30 minutes recommended\)
 2. Paint Front, Side, and Back views of the character emphasizing pro
    1. Use guidelines to align anatomical features
    2. A additional 3/4 view of the character is encouraged, but optional
